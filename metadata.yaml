@@ -1,0 +1,33 @@
+_repo: Cat-logo-Monumental-de-Espa-a--Provincia-de--lavade-al-naci-n._41337
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41337-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castro, Cristóbal de
+    aliases:
+    - Castro, Cristobal de
+    - De Castro, Cristóbal
+    birthdate: 1874
+    deathdate: 1953
+    gutenberg_agent_id: '41121'
+    url: http://www.gutenberg.org/2009/agents/41121
+    wikipedia: http://es.wikipedia.org/wiki/Crist%C3%B3bal_de_Castro
+description: ''
+gutenberg_issued: '2012-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41337'
+  lccn: '83162496'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Art, Spanish -- Spain -- Alava (Province) -- Catalogs'
+- !lcsh 'Monuments -- Spain -- Alava (Province) -- Catalogs'
+title: "Catálogo Monumental de España; Provincia de Álava\r\nInventario general de\
+  \ los monumentos históricos y artísticos de al nación."
+url: http://www.gutenberg.org/ebooks/41337
